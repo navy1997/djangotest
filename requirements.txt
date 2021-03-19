@@ -1,6 +1,6 @@
 Django==1.11.26
 django-cors-headers==3.2.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 hashids==1.2.0
 PyJWT==1.7.1
